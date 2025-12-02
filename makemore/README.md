@@ -1,0 +1,1 @@
+Following the *Neural Networks: Zero to Hero* series by Andrej Karpathy ([link](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2))
