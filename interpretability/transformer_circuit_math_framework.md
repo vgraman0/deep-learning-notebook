@@ -156,7 +156,7 @@ They dive much more into induction heads in the paper *Olsson, et al., "In-conte
 
 Elhage, et al., "A Mathematical Framework for Transformer Circuits", Transformer Circuits Thread, 2021.
 
-Neel Nanda's *A Walkthrough of A Mathematical Framework for Transformer Circuits* ([link](https://www.youtube.com/watch?v=KV5gbOmHbjU&t=1917s)) was also helpful in putting together these notes.
+Neel Nanda's *A Walkthrough of A Mathematical Framework for Transformer Circuits* ([link](https://www.youtube.com/watch?v=KV5gbOmHbjU&t=1917s))
 
 *Olsson, et al., "In-context Learning and Induction Heads", Transformer Circuits Thread, 2022* ([link](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)).
 
