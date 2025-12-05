@@ -96,7 +96,7 @@ T(t) &= x_1W_U^T \\
 $$
 The first term is the same direct path from input tokens to output logits that corresponds to bigram statistics.
 
-In the second term, first note that $A^h = t^\top (W_E^T W_{QK}^h W_E) t$.
+In the second term, first note that $A^h = t^T (W_E^T W_{QK}^h W_E) t$.
 - $W_E^T W_{QK}^h W_E$ is the QK-circuit. This describes how much a given query token wants to attend a given key token.
 - $W_U W_{OV}^hW_E$ is the OV circuit. It describes how a given token will affect the logits if attended to.
 
